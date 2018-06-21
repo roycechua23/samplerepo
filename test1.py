@@ -1,5 +1,6 @@
 print("Hello Jovie")
 print("Hello Royce")
 
-name= "Cinco"
+name = input("Enter your Name: ")
 print("Hello "+name)
+
